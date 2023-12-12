@@ -1,7 +1,7 @@
 ## Olá! eu sou @Lacerda018
 - 👀 Interessado em realizar projetos para contribuir com meu crescimento e também do projeto que estarei atuando.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- ✔  Linguagens: Javascript | C++ | Python | PostgreSQL
+- ✔  Linguagens: PHP | C++ | Python | PostgreSQL
 - 💞️ Procuro Colaborar com o crescimento social e profissional 
 - 📫 Instagram: Lacerda_5. Linkedin: Lucas Lacerda
 
