@@ -17,5 +17,5 @@
   <img align="center" alt="Lacerda-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lacerda-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lacerda-PostgreSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor.svg">
-  <img align="center" alt="Lacerda-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor.svg">
+  <img align="center" alt="Lacerda-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg>
 </div>
