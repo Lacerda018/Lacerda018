@@ -1,7 +1,8 @@
 ## Olá! eu sou @Lacerda018
-- 👀 Interessado em realizar projetos para contribuir com meu crescimento e também do projeto que estarei atuando.
+- Sou Desenvolvedor Backend
+- 👀 Interessado em realizar projetos para contribuir com meu crescimento e também do projeto que estarei atuando
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- ✔  Linguagens: PHP | C++ | Python | PostgreSQL
+- ✔  Linguagens: PHP | PostgreSQL | MySQL
 - 💞️ Procuro Colaborar com o crescimento social e profissional 
 - 📫 Instagram: Lacerda_5. Linkedin: Lucas Lacerda
 
@@ -14,9 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lacerda-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lacerda-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lacerda-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lacerda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Lacerda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lacerda-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lacerda-PostgreSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor.svg">
+  <img align="center" alt="Lacerda-MySQL" height="30" width="40" src="https://icongr.am/devicon/MySQL-original.svg?size=128&color=currentColor.svg">
 </div>
